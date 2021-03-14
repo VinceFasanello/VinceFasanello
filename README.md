@@ -1,9 +1,13 @@
 - 👋 Hi, I’m @VinceFasanello
 - 📫 How to reach me ...
     Email: vincefasanello@gmail.com
+   
     Phone: (585) 350 - 9299
+    
     Personal Website: https://vincefasanello.com/
+    
     LinkedIn: https://www.linkedin.com/in/vincefasanello/
+    
     Twitter: https://twitter.com/vincefasanello
 
 More to come at a later date....
